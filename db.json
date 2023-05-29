@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Product B",
+      "price": 300
+    },
+    {
+      "id": 2,
+      "name": "Product CC",
+      "price": 400
+    },
+    {
+      "name": "sản phẩm mới vừa thêm update",
+      "price": 30022,
+      "id": 3
+    },
+    {
+      "name": "nguyen duc nam",
+      "price": 12,
+      "id": 4
+    },
+    {
+      "name": "Music App11",
+      "price": 44444,
+      "id": 5
+    }
+  ]
+}
